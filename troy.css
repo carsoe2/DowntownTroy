@@ -1,0 +1,307 @@
+.carousel-item img {
+    width: 100%;
+    height: 70%;
+}
+
+.carousel-control-next-icon,.carousel-control-prev-icon{
+    color: #F7DDB6;
+}
+
+.navbar-brand {
+    color: #5E671C;
+    font-size: 0.5in;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container-fluid {
+    height: 1.1in;
+}
+
+.backimg {
+    width: 100%
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: #5E671C;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.welcome {
+    background-color: antiquewhite;
+}
+
+.logo {
+    width: 10%;
+}
+
+.logoCircle {
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    margin-left: 20%;
+}
+
+.card {
+    padding: 1px 1px 1px 1px;
+    border-color: #5E671C;
+    border-width: 5px;
+}
+
+.btn {
+    background-color: #5E671C;
+    border-color: #5E671C;
+    color:white;
+}
+
+.foot {
+    background-color: antiquewhite;
+    border-color: #5E671C;
+    border-top-style: solid;
+    text-align: center;
+    padding: 20px;
+    color: #5E671C;
+    font-size: 17px;
+    height: fit-content;
+}
+
+.foot a {
+    color: #5E671C;
+    text-decoration: none;
+}
+
+.form {
+    align-items: center;
+    display: block;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+
+input {
+    display: inline;
+    width: 300px;
+    font-size: 20px;
+    padding: 0;
+    border-color: beige;
+    background: beige;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h3Form {
+    margin-top: 2%;
+}
+
+.h2Form {
+    color: #5E671C;
+    padding-left: 5.5in;
+}
+
+.customcolor {
+    background-color: #5E671C;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.explore {
+    position: absolute;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+    bottom: 0px;
+    left: 50%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    transform: translate(-50%, -50%);
+}
+
+.exploredown {
+    color: white;
+}
+
+.event-table{
+    margin-top: 25px;
+    padding: 25px;
+}
+
+.row-dark {
+    background-color: #F8E4C9;
+}
+
+.row-light {
+    background-color: #FDF6ED;
+}
+
+.row-selected {
+    background-color: #F7DDB6;
+    /* color:beige; */
+}
+
+.event-table .col {
+    margin: auto 0;
+}
+
+.events-link a {
+    
+    text-decoration: none;
+    color: white;
+}
+
+.loginButton {
+    width: 300px;
+    font-size: 40px;
+    height: 100px;
+    border-radius: 25px;
+    border-width: 2px;
+    border-color: beige;
+    background: #5E671C;
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loginButton:hover {
+    background: #198754;
+}
+
+.loginForm {
+    align-items: center;
+    align-content: center;	
+    color: #5E671C;	
+    margin-left: auto;	
+    margin-right: auto;
+}
+
+.fade{
+    color: #5E671C;
+    background-color: #FDF6ED;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 4px 4px 4px 4px;
+    margin-left: 23%;
+    width: 8in;
+    height: 3in;
+    text-align: center;
+    font-size: larger;
+    align-self:auto;
+}
+.nav-tabs .nav-link{
+    background-color: #5E671C;
+    color:#FDF6ED;
+        margin-left: 23%;
+}
+.nav-tabs .nav-link .active{
+    background-color: #FDF6ED;
+    color:#5E671C;
+}
+.nav-tabs{
+    margin-left: 23%;
+    border-bottom:red;
+}
+.form-group{
+    margin: 4px 4px 4px 4px;
+    margin-left: 23%;
+    width: 8in;
+}
+.formsubmit{
+    margin: 4px 4px 4px 4px;
+    margin-left: 23%;
+    width: 8in; 
+}
+.selectBack {	
+    display: inline;	
+    padding: 5px;	
+    border-radius: 25px;	
+    border-color: beige;	
+    background: beige;	
+    align-items: center;	
+    margin-top: 20px;	
+    margin-left: auto;	
+    margin-right: auto;	
+}	
+label {	
+    font-size: large;	
+    font-weight: bold;	
+}
+.Reviews {	
+margin-bottom: 20px;
+}
+.arrowdown{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    margin-left: 20%;
+}
+
+td{
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+tr:nth-child(even) {
+    background-color: #5E671C;
+    color:white;
+}
+
+
+table,td,th{
+    border: 3px solid black;
+}
+table{
+    background-color: #FDF6ED;
+    margin: 4px 4px 4px 4px;
+}
+.searchbutton{
+    width: auto;
+    margin-right: 5px;
+}
+a.nav-link {
+    width: max-content;
+    margin: 2px 2px 2px 2px;
+    font-size: larger;
+    font-family: ui-monospace;
+}
+.loginContent{
+        width: max-content;
+        margin: 5px;
+    
+}
+.h3.p-4.pb-2 {
+    color: white;
+}
+.greencolor{
+    background-color: #5E671C;
+}
+.formlogin{
+    width: 100%;
+    margin-left:1.7in;
+}
+.littletext{
+    margin-left: 1.1in;
+}
+.loginContent.profilepagebuttons {
+    margin-left: 6.3in;
+    margin-bottom: 0.5in;
+    margin-top: 0.2in;
+}
+.formtextinfo{
+    text-align: center;
+}
+.btn-outline-success{
+    width: max-content;
+    margin: 5px;
+    --bs-btn-active-bg: darkgreen;
+    --bs-btn-hover-bg: darkgreen;
+
+}

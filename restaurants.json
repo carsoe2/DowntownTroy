@@ -1,0 +1,96 @@
+{
+    "restaurantList": [
+        {
+            "number": "1",
+            "name": "Bard & Baker",
+            "imagePath": "TroyPhotos/bard&baker.png",
+            "description": "Bard & Baker Troy is the Capital District's first board game café, located at 501 Broadway in the original historic Troy Record Building in downtown Troy, NY, featuring over 850 titles, ranging from classics such as CLUE, Stratego & Scrabble to contemporary games like Catan, Ticket to Ride & Ascension.",
+            "category": "Café",
+            "site":""
+        
+        },
+        {
+            "number": "2",
+            "name": "Dinosaur Bar-B-Que",
+            "imagePath": "TroyPhotos/dinosaurbbq.png",
+            "description": "The Dino has been one of the Troy, NY top restaurants serving BBQ since November 2010. We have free parking for all of our guests. The Troy location offers Offsite catering, along with pick up, delivery, drop off with servers and full service.",
+            "category": "BBQ",
+            "site":""
+        
+        },
+        {
+            "number": "3",
+            "name": "Little Pecks",
+            "imagePath": "TroyPhotos/littlepecks.png",
+            "description": "Little Pecks is a neighborhood all-day café with a passion for tasty bites and quality beans. We're also the perfect place to meet up with friends, take care of business, or just kick back and relax!",
+            "category": "",
+            "site":""
+        
+        },
+        {
+            "number": "4",
+            "name": "Lucky Corner",
+            "imagePath": "TroyPhotos/luckycorner.png",
+            "description": "This restaurant offers you nice food and a place to rest after a long walk around Rensselaer County Historical Society.  Make a change from your habitual meal and taste good pork chops, sesame chicken and pork stew at this place. You will be offered such food as tasty pudding, don't hesitate to try it. Order great bubble tea, americano or milk tea, it's a must when visiting this spot.",
+            "category": "Chinese, Taiwanese",
+            "site":""
+        
+        },
+        {
+            "number": "5",
+            "name": "Manorys",
+            "imagePath": "TroyPhotos/Manorys.png",
+            "description": "Welcome to Manory's Restaurant, est. in 1913 and located at the corners of 4th and Congress Street in Historical Downtown Troy! Open seven days a week and serving breakfast ALL DAY, lunch, early dinner, ice cream and cinnamon rolls!",
+            "category": "American, Diner",
+            "site":""
+        
+        },
+        {
+            "number": "6",
+            "name": "Nighthawks",
+            "imagePath": "TroyPhotos/nighthawks.jpg",
+            "description": "Nighthawks in Troy sources locally grown produce and farm raised meats to create their small but mighty menu. Each dish is prepared with the freshest of ingredients from local farms in Troy, Albany, and surrounding areas. You'll taste the farm to table freshness in every bite! Our goal is to feed our friends and community with the best quality ingredients, cooked nicely, having good food and a good time.",
+            "cuisine type": "American, Bar",
+            "site":""
+        
+        },
+        {
+            "number": "7",
+            "name": "Sliding Dirty",
+            "imagePath": "TroyPhotos/slidingdirty.jpg",
+            "description": "Slidin’ Dirty has been serving the greater capital region of New York with a unique slider menu since 2012. Our upscale restaurant has a wide variety of delicious food, including vegan options, salads, and macs. We also offer food truck and catering services for all special occasions.",
+            "cuisine type": "Street Food, American, Bar",
+            "site":""
+        
+        },
+        {
+            "number": "8",
+            "name": "Snowman",
+            "imagePath": "TroyPhotos/snowman.jpg",
+            "description": "Since the early 1950's The Snowman has produced all of the premium hard ice cream, yogurts, and sherbets we serve to you on premises daily.",
+            "cuisine type": "Ice Cream",
+            "site":""
+        
+        },
+        
+        {
+            "number": "9",
+            "name": "Sunhee's Farm",
+            "imagePath": "TroyPhotos/sunhee'sfarm.jpg",
+            "description": "Sunhee's Farm and Kitchen is a family-owned Korean quick service restaurant serving Troy, NY and the Albany area. Local, fresh, healthy and authentic.At Sunhee's, we aim to serve traditional Korean food and promote positive food culture. Many items on the menu are sourced from our farm in Cambridge, NY.",
+            "cuisine type": "Korean",
+            "site":""
+        
+        },
+        {
+            "number": "10",
+            "name": "Unagisushi",
+            "imagePath": "TroyPhotos/unagisushi.jpg",
+            "description": "Unagi's bold and diverse menu also offers an array of hot and cold specialty appetizers and an extensive selection of exotic entrees.",
+            "cuisine type": "Sushi",
+            "site":""
+        
+        }
+       
+    ]
+}
